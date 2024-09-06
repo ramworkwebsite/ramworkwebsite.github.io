@@ -5,10 +5,10 @@
 	/// Initializes the current element as an HTML grid.
 	/// @param {mixed} $gutters Gutters (either a single number to set both column/row gutters, or a list to set them individually).
 	/// @param {mixed} $suffix Column class suffix (optional; either a single suffix or a list).
-	@mixin html-grid($gutters: 1.5em, $suffix: '') {
+	@mixin html-grid($gutters: 2.0em, $suffix: '') {
 
 		// Initialize.
-			$cols: 16;
+			$cols: 12;
 			$multipliers: 0, 0.25, 0.5, 1, 1.50, 2.00;
 			$unit: 100% / $cols;
 
