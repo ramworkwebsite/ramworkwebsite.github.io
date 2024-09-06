@@ -23,7 +23,7 @@
 				}
 
 			// Gutters.
-				$guttersCols: null;
+				$guttersCols: 5;
 				$guttersRows: null;
 
 				@if (type-of($gutters) == 'list') {
