@@ -1,6 +1,6 @@
 // Misc.
 	$misc: (
-		z-index-base:		100000,
+		z-index-base:		10000,
 		main-layout:		(
 			default:		(
 				rows:		2,
@@ -21,7 +21,7 @@
 				minHeight:	20em
 			),
 			medium:			(
-				rows:		2,
+				rows:		3,
 				columns:	2,
 				pad:		0.5,
 				minHeight:	18em
