@@ -1792,30 +1792,7 @@ input, select, textarea {
 				-ms-transition-delay: 2.3s;
 				transition-delay: 2.3s;
 			}
-			#main .thumb:nth-child(13) {
-				-moz-transition-delay: 2.3s;
-				-webkit-transition-delay: 2.3s;
-				-ms-transition-delay: 2.3s;
-				transition-delay: 2.3s;
-			}
-			#main .thumb:nth-child(14) {
-				-moz-transition-delay: 2.3s;
-				-webkit-transition-delay: 2.3s;
-				-ms-transition-delay: 2.3s;
-				transition-delay: 2.3s;
-			}
-			#main .thumb:nth-child(15) {
-				-moz-transition-delay: 2.3s;
-				-webkit-transition-delay: 2.3s;
-				-ms-transition-delay: 2.3s;
-				transition-delay: 2.3s;
-			}
-			#main .thumb:nth-child(16) {
-				-moz-transition-delay: 2.3s;
-				-webkit-transition-delay: 2.3s;
-				-ms-transition-delay: 2.3s;
-				transition-delay: 2.3s;
-			}
+			
 
 		@media screen and (max-width: 1680px) {
 
