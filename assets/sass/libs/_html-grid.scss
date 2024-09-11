@@ -8,7 +8,7 @@
 	@mixin html-grid($gutters: 1.5em, $suffix: '') {
 
 		// Initialize.
-			$cols: 20;
+			$cols: 20; //12!!
 			$multipliers: 0, 0.25, 0.5, 1, 1.50, 2.00;
 			$unit: 100% / $cols;
 
