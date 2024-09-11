@@ -6,13 +6,13 @@
 				rows:		2,
 				columns:	4,
 				pad:		0.5,
-				minHeight:	20em
+				minHeight:	2em
 			),
 			xlarge:			(
 				rows:		2,
 				columns:	3,
 				pad:		0.5,
-				minHeight:	20em
+				minHeight:	2em
 			),
 			large:			(
 				rows:		2,
@@ -24,13 +24,13 @@
 				rows:		2,
 				columns:	2,
 				pad:		0.5,
-				minHeight:	18em
+				minHeight:	1em
 			),
 			xsmall:			(
 				rows:		2,
 				columns:	1,
 				pad:		0.5,
-				minHeight:	18em
+				minHeight:	1em
 			)
 		)
 	);
@@ -46,7 +46,7 @@
 
 // Size.
 	$size: (
-		element-height:		1.75em,
+		element-height:		2.75em,
 		element-margin:		2em,
 		header:				4em
 	);
